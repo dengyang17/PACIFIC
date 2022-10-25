@@ -5,25 +5,26 @@ PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Te
 
 You can download our PACIFIC dataset via [PACIFIC dataset](https://github.com/dengyang17/PACIFIC/tree/master/dataset_raw).
                 
-For more information, please refer to our [PACIFIC website](https://nextplusplus.github.io/PACIFIC/) or read our EMNLP 2022 paper [PDF]().
+For more information, please refer to our [PACIFIC website](https://nextplusplus.github.io/PACIFIC/) or read our EMNLP 2022 paper [PDF](https://arxiv.org/abs/2210.08817).
 
 
 ## UniPCQA Model
-
-### Requirements
-
-To create an environment with Anaconda and activate it.
-
-```bash
-conda create -n pacific
-conda activate pacific
-conda install pytorch cudatoolkit=11.3 -c pytorch
-pip install -r requirement.txt
-```
 
 ### Training & Testing
 
 
 __Please kindly cite our work if you use our dataset or codes, thank you.__
 ```bash
+@inproceedings{emnlp22-pacific,
+  author    = {Yang Deng and
+               Wenqiang Lei and
+               Wenxuan Zhang and
+               Wai Lam and
+               Tat{-}Seng Chua},
+  title     = {{PACIFIC:} Towards Proactive Conversational Question Answering over
+               Tabular and Textual Data in Finance},
+  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural
+               Language Processing, {EMNLP} 2022},
+  year      = {2022},
+}
 ```
