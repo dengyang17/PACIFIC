@@ -3,7 +3,7 @@ PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Te
 
 **PACIFIC** (**P**ro**A**ctive **C**onversat**i**onal Question Answering in **FI**nan**C**e) contains 2,757 dialogues associated with 1,9008 QA turns. 
 
-You can download our PACIFIC dataset via [PACIFIC dataset](https://github.com/dengyang17/PACIFIC/tree/master/dataset_raw).
+You can download our PACIFIC dataset via [PACIFIC dataset](https://github.com/dengyang17/PACIFIC/tree/master/data).
                 
 For more information, please refer to our [PACIFIC website](https://nextplusplus.github.io/PACIFIC/) (coming soon) or read our EMNLP 2022 paper [PDF](https://arxiv.org/abs/2210.08817).
 
