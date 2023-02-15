@@ -5,7 +5,7 @@ PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Te
 
 You can download our PACIFIC dataset via [PACIFIC dataset](https://github.com/dengyang17/PACIFIC/tree/master/data).
                 
-For more information, please refer to our [PACIFIC website](https://nextplusplus.github.io/PACIFIC/) (coming soon) or read our EMNLP 2022 paper [PDF](https://arxiv.org/abs/2210.08817).
+For more information, please refer to our [PACIFIC website](https://nextplusplus.github.io/PACIFIC/) or read our EMNLP 2022 paper [PDF](https://arxiv.org/abs/2210.08817).
 
 
 ## UniPCQA Model
