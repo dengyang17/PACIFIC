@@ -74,7 +74,7 @@ def convert_to_features(args, tokenizer, mode):
             for turn in dial:
                 source_id += tokenizer.encode('[user]' + turn['question'])
                 req_clari = False
-                if args.data_name == 'findial':
+                if args.data_name == 'pacific':
                     if turn['req_clari']:
                         req_clari = True
                 if req_clari:
